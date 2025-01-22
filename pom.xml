@@ -16,7 +16,6 @@
         <module>search</module>
         <module>config</module>
         <module> university</module>
-        <module> springsec</module>
         <module> school</module>
     </modules>
 

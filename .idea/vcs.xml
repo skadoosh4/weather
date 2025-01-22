@@ -4,6 +4,5 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/properties" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/school" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/springsec" vcs="Git" />
   </component>
 </project>
